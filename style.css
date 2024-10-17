@@ -1,0 +1,33 @@
+
+/*this is for formatting the body */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: -moz-element(12);
+}
+
+p{
+    font-size:14px;
+    color:red;
+}
+.box{
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+    margin: 25px;
+}
+
+h1{
+    font-style: italic;
+    font-size: 14px;
+    background-color: green;
+}
+.specialh4{
+    color:brown;
+    background-color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+}
+
+a:hover{
+    font-style: bold;
+    font-size: 50px;
+}
